@@ -1,3 +1,13 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Chijioke+Okorji!;" />
-</h1>
+### A webdeveloper student at Glimmåkra Folkhögskola in Sweden.
+
+- 💻Learning JavaScript, PHP, MySQL among others.
+
+
+## Languages and Tools
+
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,react,nextjs," />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,js,git,figma" />
+</p>
