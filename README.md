@@ -1,6 +1,6 @@
 ### A webdeveloper student at Glimmåkra Folkhögskola in Sweden.
 
-- 💻Learning JavaScript, PHP, MySQL among others.
+
 
 
 ## Languages and Tools
