@@ -8,7 +8,7 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,react,nextjs," />
+  <img src="https://skillicons.dev/icons?i=php, mysql" />
   <br>
-  <img src="https://skillicons.dev/icons?i=html,css,sass,js,git,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,figma" />
 </p>
