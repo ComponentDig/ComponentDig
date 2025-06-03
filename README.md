@@ -9,5 +9,6 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,figma,bootstrap" />
-  <img src="https://skillicons.dev/icons?i=docker,mysql,php />
+  <br>
+  <img src="https://skillicons.dev/icons?i=docker,mysql,php" />
 </p>
