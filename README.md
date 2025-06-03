@@ -9,5 +9,6 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,react,nextjs," />
+  <br>
   <img src="https://skillicons.dev/icons?i=html,css,sass,js,git,figma" />
 </p>
