@@ -8,7 +8,7 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php, mysql" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,figma,bootstrap" />
   <br>
-  <img src="https://skillicons.dev/icons?i=html,css,js,figma" />
+  <img src="https://skillicons.dev/icons?i=docker,mysql,php />
 </p>
